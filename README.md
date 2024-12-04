@@ -1,25 +1,11 @@
-#<!DOCTYPE html>
+    <!DOCTYPE html>
 <html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Display Image</title>
+</head>
 <body>
-
-    <header>
-        <h1>Districts of Mbeya, Tanzania</h1>
-    </header>
-
-    <div class="container">
-        <h2>List of Districts</h2>
-        <ul>
-            <li>Mbeya District</li>
-            <li>Mbeya City</li>
-            <li>Mbarali</li>
-            <li>Ileje</li>
-            <li>Chunya</li>
-            <li>Rungwe</li>
-            <li>Songwe</li>
-            <li>Mbozi</li>
-            <li>Kyela</li>
-        </ul>
-    </div>
-
+    <img src="https://3.bp.blogspot.com/_fILgq9PY0Rk/S9H5dFirQtI/AAAAAAAAABw/WXJ0pU9GzJ4/s1600/IMAGE01W.JPG" alt="Image" />
 </body>
 </html>
